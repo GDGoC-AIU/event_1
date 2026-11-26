@@ -1,1 +1,3 @@
-Hello, Im learning
+Hello, Im learning git
+
+this is version 1
